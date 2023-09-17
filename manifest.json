@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Credit Card Totaler",
-	"version": "1.0",
+	"version": "1.0.1",
 	"description": "Sum all future credit card bill amounts as shown in Bank Hapoalim's website.",
 	"permissions": [
 		"activeTab"
