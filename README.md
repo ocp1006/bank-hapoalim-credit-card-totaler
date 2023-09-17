@@ -1,6 +1,6 @@
 # Bank Hapoalim's Credit Card Totaler Extension
 
-A browser extension that calculates and displays the total amount of all external credit card charges on Bank Hapolaim's website.
+This extension automatically aggregates the balances of external credit cards displayed on Bank Hapoalim's website into a single total. Now, you no longer have to manually add up card amounts – see the combined balance at a glance right above the card details!
 
 ![Screenshot of Extension](./screenshot/screenshot.jpg)
 
