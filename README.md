@@ -1,20 +1,26 @@
 # Bank Hapoalim's Credit Card Totaler Extension
 
-A browser extension that calculates and displays the total amount of all external credit card charges on Bank Hapolaim's website.
+This extension automatically aggregates the balances of external credit cards displayed on Bank Hapoalim's website into a single total. Now, you no longer have to manually add up card amounts – see the combined balance at a glance right above the card details!
 
 ![Screenshot of Extension](./screenshot/screenshot.jpg)
 
 ## Installation
+### Chrome Web Store
+TBD
 
+### Mozilla Addons
+https://addons.mozilla.org/en-US/firefox/addon/hapoalim-credit-card-totaler/
+
+### Manually
 Clone this repository: `git clone https://github.com/ocp1006/bank-hapoalim-credit-card-totaler.git`
 
-### Chromium based browser:  
+#### Chromium based browser:  
 1. Type `chrome://extensions/`
 2. Enable "Developer mode".
 3. Click on "Load unpacked".
 4. Navigate to the directory where you cloned the repository and select it.
 
-### Firefox (Nightly or developer edition only):
+#### Firefox (Nightly or developer edition only):
 1. Type `about:debugging`.
 2. Click on "Load Temporary Add-on".
 3. Navigate to the directory where you cloned the repository and select the `manifest.json` file.
