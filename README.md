@@ -5,7 +5,7 @@ This extension automatically aggregates the balances of external credit cards di
 ![Screenshot of Extension](./screenshot/screenshot.jpg)
 
 > [!IMPORTANT]
-> You have your external credit cards linked and displayed on Bank Hapoalim's website.<br>
+> You have to have your external credit cards linked and displayed on Bank Hapoalim's website in order for this extension to work.<br>
 > If you don't know how to do it, Google is your friend...
 
 ## Installation
