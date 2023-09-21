@@ -43,8 +43,9 @@ Navigate to Bank Hapoalim's credit card page after installing the extension. The
 
 ## Privacy
 > [!IMPORTANT]
-> This extension does not track any personal information or send data anywhere. All calculations are done locally in the user's browser, ensuring your data remains private and secure.
-> 
+> This extension does not track any personal information or send data anywhere.
+> All calculations are done locally in the user's browser, ensuring your data remains private and secure.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
