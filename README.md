@@ -4,8 +4,8 @@ This extension automatically aggregates the balances of external credit cards di
 
 ![Screenshot of Extension](./screenshot/screenshot.jpg)
 
-## Prerequisites
-You have your external credit cards linked and displayed on Bank Hapoalim's website. If you don't know how to do it, Google is your friend...
+> [!IMPORTANT]
+> You have your external credit cards linked and displayed on Bank Hapoalim's website. If you don't know how to do it, Google is your friend...
 
 ## Installation
 Easiest way to install is by visiting either the Chrome web store or Mozilla Addons and download the extension:
@@ -15,19 +15,26 @@ https://chrome.google.com/webstore/detail/credit-card-totaler/holdmkefblpbaehhnc
 ### Mozilla Addons
 https://addons.mozilla.org/en-US/firefox/addon/hapoalim-credit-card-totaler/
 
-## Download and debug:
+### Running locally
 Clone this repository: `git clone https://github.com/ocp1006/bank-hapoalim-credit-card-totaler.git`
+<details>
+<summary>Chromium based browser</summary>
 
-#### Chromium based browser:  
 1. Type `chrome://extensions/`
 2. Enable "Developer mode".
 3. Click on "Load unpacked".
 4. Navigate to the directory where you cloned the repository and select it.
+ 
+</details>
 
-#### Firefox (Nightly or developer edition only):
+<details>
+<summary>Mozilla Firefox (Nightly or developer edition only)</summary>
+
 1. Type `about:debugging`.
 2. Click on "Load Temporary Add-on".
 3. Navigate to the directory where you cloned the repository and select the `manifest.json` file.
+ 
+</details>
 
 ## Usage
 
